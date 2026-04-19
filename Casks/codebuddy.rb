@@ -1,6 +1,6 @@
 cask "codebuddy" do
-  version "0.1.0"
-  sha256 "2d32c1b52040d3b109e3973db160f2208e4e8c4824d4cbfd6c0d1778fa81e881"
+  version "0.1.1"
+  sha256 "5bd02a17ed90341ea0a9895264ad00673be9b9d53615d9f48b253f86ccd8c462"
 
   url "https://github.com/timothymhowe/codebuddy/releases/download/v#{version}/CodeBuddy-#{version}.zip"
   name "CodeBuddy"
